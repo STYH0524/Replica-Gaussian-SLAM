@@ -1,1 +1,1 @@
-# ReplicaGaussianSLAM
+# Replica-Gaussian-SLAM
